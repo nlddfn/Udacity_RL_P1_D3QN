@@ -6,7 +6,7 @@
 The project implements a simplified version of a Double Dueling Deep Q Network (D3QN) where the convolutional layers are substituted with fully connected layers. The original architecture is described in this [paper](https://www.semanticscholar.org/paper/V-D-D3QN%3A-the-Variant-of-Double-Deep-Q-Learning-Huang-Wei/e6a1640c03c50a55ef3e00a0592dbb0851fe33bb) and [blog](https://medium.com/analytics-vidhya/introduction-to-dueling-double-deep-q-network-d3qn-8353a42f9e55).
 
 <figure>
-    <img src="images/d3qn.png" width="80%" align="center" alt="Original architecture for D3QN">
+    <img src="images/D3QN.png" width="80%" align="center">
 <figcaption>Fig 1: Original architecture for Dueling DQN</figcaption>
 </figure>
 
