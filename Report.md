@@ -36,3 +36,6 @@ The environment was solved in 436 episodes, a considerable improvement with resp
 This project addressed a few of the various improvements to the original DQN algorithm. A comprehensive list can be found in the Rainbow DQN [paper](https://arxiv.org/pdf/1710.02298.pdf). 
 
 The future work will address integrating prioritized rebuffering play as discussed in this [paper](https://arxiv.org/pdf/1511.05952.pdf) and many [blogs](https://towardsdatascience.com/how-to-implement-prioritized-experience-replay-for-a-deep-q-network-a710beecd77b).
+
+## Other Resources
+The author of the blog [Chris Yoon](https://github.com/cyoon1729/deep-Q-networks) has a few interesting examples of Deep Q Network.
